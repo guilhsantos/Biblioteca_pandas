@@ -1,6 +1,6 @@
 # Biblioteca_pandas
 
-# O datset de varejo que temos em mãos é composto por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de vendas, como marketplace, loja própria, entre outros.
+O datset de varejo que temos em mãos é composto por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de vendas, como marketplace, loja própria, entre outros.
 
 Premissas do negócio:
 Ao analizar os dados, é importante ter em mente que existem algumas premissas de negócio que devem ser consideradas. A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações de UF (Unidade Federativa). Para solucionar esse problema, foi decidido que essas compras serão consideradas como pertencentes ao estado de Mato Grosso do Sul (MS). A segunda premissa é que o preço final do produto não pode ser maior do que o preço com frete.
